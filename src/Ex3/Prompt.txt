@@ -1,0 +1,19 @@
+
+//Desafio 3 (Uso de ChatGPT / LLM)
+//Tema: Saber pedir ajuda
+//“Você está com um problema onde precisa ordenar uma lista de objetos Pessoa por idade
+//usando C# (ou a linguagem que você preferir).
+//Como você formularia essa pergunta para o ChatGPT?”
+
+--------------------------------------------------------------------------------------------
+
+(Antes de enviar o prompt eu faço uma preparação naquele chat com "Este chat será para
+ análise e criação de código em Java para projetos diversos. Eu enviarei o problema
+ e esperarei a resolução como resposta. Se necessário, envie sugestões de melhoria também." )
+
+Olá! Estou trabalhando num projeto em Java e preciso de ajuda para ordenar uma lista de
+ objetos da minha classe Pessoa com base no atributo idade, em ordem crescente.
+ Faça e organize este código utilizando tecnologias flexíveis, como o Comparator,
+ de maneira que possa ser adaptado para outras situações.
+
+--------------------------------------------------------------------------------------------
